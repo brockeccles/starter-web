@@ -8,4 +8,4 @@ Sample website with plenty of files for demos
 
 ## Deployment
 
-information in deploying
+information in deploying, for those who need to know
